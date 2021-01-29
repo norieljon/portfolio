@@ -17,7 +17,7 @@
         <div class="row">
             <h1 class="font-weight-bold col-12 text-dark-blue">Who is Noriel Jon</h1>
             <div class="col-12 d-flex">
-                <p class="font-weight-light text text-justify">My name is Noriel Jon. I am a web developer.<br>I studied and attained my Bachelor's degree in Computer Science at Saint Louis University in Baguio city. I am a developer during the day, and during my vacant time, I love to learn new stuff, play, record and create vexel art.</p>
+                <p class="font-weight-light text text-justify">I attained my Bachelor's degree in Computer Science at Saint Louis University in Baguio City. During the day, I am a developer. However, on my vacant time, I love learning new skills, play, record, and create vexel art.</p>
             </div>
         </div>
 
