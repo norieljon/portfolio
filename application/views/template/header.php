@@ -5,11 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title><?=$title?></title>
         <link rel="icon" 
-      type="image/png" href="<?=base_url()?>img/logo-black.png">
+      type="image/png" href="<?=base_url()?>public/img/logo-black.png">
         <?php
             if(!empty($css)) {
                 for($i=0;$i<=count($css)-1;$i++) {
-                    echo '<link href="'.base_url().'css/'.$css[$i].'" rel="stylesheet">';
+                    echo '<link href="'.base_url().'public/css/'.$css[$i].'" rel="stylesheet">';
                 }
             }
         ?>

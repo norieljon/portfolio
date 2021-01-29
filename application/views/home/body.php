@@ -3,7 +3,7 @@
 <div class="row d-flex flex-wrap justify-content-center align-content-center ml-0 mr-0 p-0 h-100" id="home">
     <div class="container pt-5 mt-5 row">
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-            <img src="<?= base_url() ?>img/picture-1.jpg" alt="logo" class="rounded-circle home-picture">
+            <img src="<?= base_url() ?>public/img/picture-1.jpg" alt="logo" class="rounded-circle home-picture">
         </div>
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-3 mt-md-3 mt-sm-3">
             <h1 class="font-weight-bold text-dark-blue">Hi, I'm Noriel Jon.</h1>
@@ -22,8 +22,8 @@
         </div>
 
         <div class="container mt-4 mb-5 row d-flex justify-content-center">
-            <img src="<?= base_url() ?>img/picture-2.1.jpg" class="about-picture" id="about-picture">
-            <img src="<?= base_url() ?>img/picture-2.2.jpg" class="about-picture" id="about-picture" style="display: none;">
+            <img src="<?= base_url() ?>public/img/picture-2.1.jpg" class="about-picture" id="about-picture">
+            <img src="<?= base_url() ?>public/img/picture-2.2.jpg" class="about-picture" id="about-picture" style="display: none;">
         </div>
     </div>
 </div>

@@ -14,9 +14,9 @@ $("#back-to-top").on('click', function(){
 })
 
 $("#about-picture").on('mouseover', function() {
-    this.src = base_url + '/img/picture-2.2.jpg';
+    this.src = base_url + '/public/img/picture-2.2.jpg';
 });
 
 $("#about-picture").on('mouseout', function() {
-    this.src = base_url + '/img/picture-2.1.jpg';
+    this.src = base_url + '/public/img/picture-2.1.jpg';
 });

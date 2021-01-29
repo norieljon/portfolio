@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-dark .navbar-default navbar-static-top">
-    <a href="<?=base_url()?>" class="navbar-brand"><img src="<?=base_url()?>img/logo-white.png" alt="logo" class="navbar-logo"></a>
+    <a href="<?=base_url()?>" class="navbar-brand"><img src="<?=base_url()?>/public/img/logo-white.png" alt="logo" class="navbar-logo"></a>
     <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
